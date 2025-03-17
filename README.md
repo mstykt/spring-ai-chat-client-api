@@ -27,7 +27,7 @@ You can call chat client api via rest api and shell command.
 
 Rest:
 <br>
-`curl -G http://localhost:8080/ai/chat -d "message=where%20is%20capital%20city%20of%20France"`
+`curl -G http://localhost:8080/ai/chat -d "message=What%20is%20the%20capital%20of%20France"`
 <br>
 `The capital city of France is Paris.`
 
@@ -36,7 +36,7 @@ Shell Command:
 <br>
 
 ```
-shell:>q "where is capital city of France"
+shell:>q "What is the capital of France?"
 The capital city of France is Paris.
 ```
 
