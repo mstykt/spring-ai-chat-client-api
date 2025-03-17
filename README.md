@@ -1,6 +1,6 @@
 # Spring AI Chat Client Api
 
-Spring Ai Chat Client Api with Ollama/Llama3.2
+Spring AI Chat Client Api with Ollama/Llama3.2
 
 ---------
 ### Tech:
