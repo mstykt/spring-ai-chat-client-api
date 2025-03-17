@@ -1,6 +1,6 @@
 # Spring AI Chat Client Api
 
-Spring Ai Chat client api with Ollama/Llama3.2
+Spring Ai Chat Client Api with Ollama/Llama3.2
 
 ---------
 ### Tech:
@@ -15,7 +15,7 @@ Running application be enough.
 
 ### Business:
 
-This application was written with reference to the [spring chat client documentation](https://docs.spring.io/spring-ai/reference/1.0/api/chatclient.html).
+This application was written with reference to the [spring ai chat client api documentation](https://docs.spring.io/spring-ai/reference/1.0/api/chatclient.html).
 
 You can demonstrate chat client api's different features with this application.
 
